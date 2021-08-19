@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.46065a9f.chunk.css",
-    "main.js": "/static/js/main.2fe02179.chunk.js",
-    "main.js.map": "/static/js/main.2fe02179.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7c1dc59c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7c1dc59c.js.map",
-    "static/js/2.2387ed7d.chunk.js": "/static/js/2.2387ed7d.chunk.js",
-    "static/js/2.2387ed7d.chunk.js.map": "/static/js/2.2387ed7d.chunk.js.map",
-    "static/js/3.a4ff0a4a.chunk.js": "/static/js/3.a4ff0a4a.chunk.js",
-    "static/js/3.a4ff0a4a.chunk.js.map": "/static/js/3.a4ff0a4a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.46065a9f.chunk.css.map": "/static/css/main.46065a9f.chunk.css.map",
-    "static/js/2.2387ed7d.chunk.js.LICENSE.txt": "/static/js/2.2387ed7d.chunk.js.LICENSE.txt"
+    "main.css": "/tic-tac-toe/static/css/main.46065a9f.chunk.css",
+    "main.js": "/tic-tac-toe/static/js/main.2fe02179.chunk.js",
+    "main.js.map": "/tic-tac-toe/static/js/main.2fe02179.chunk.js.map",
+    "runtime-main.js": "/tic-tac-toe/static/js/runtime-main.7d3d8e7e.js",
+    "runtime-main.js.map": "/tic-tac-toe/static/js/runtime-main.7d3d8e7e.js.map",
+    "static/js/2.2387ed7d.chunk.js": "/tic-tac-toe/static/js/2.2387ed7d.chunk.js",
+    "static/js/2.2387ed7d.chunk.js.map": "/tic-tac-toe/static/js/2.2387ed7d.chunk.js.map",
+    "static/js/3.a4ff0a4a.chunk.js": "/tic-tac-toe/static/js/3.a4ff0a4a.chunk.js",
+    "static/js/3.a4ff0a4a.chunk.js.map": "/tic-tac-toe/static/js/3.a4ff0a4a.chunk.js.map",
+    "index.html": "/tic-tac-toe/index.html",
+    "static/css/main.46065a9f.chunk.css.map": "/tic-tac-toe/static/css/main.46065a9f.chunk.css.map",
+    "static/js/2.2387ed7d.chunk.js.LICENSE.txt": "/tic-tac-toe/static/js/2.2387ed7d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c1dc59c.js",
+    "static/js/runtime-main.7d3d8e7e.js",
     "static/js/2.2387ed7d.chunk.js",
     "static/css/main.46065a9f.chunk.css",
     "static/js/main.2fe02179.chunk.js"
