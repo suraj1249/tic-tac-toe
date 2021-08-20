@@ -41,7 +41,9 @@
 }
 
 body {
-  background-color: rgb(63, 70, 70);
+  background-image: url('./images/bg3.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .box-light {
@@ -61,13 +63,28 @@ body {
   vertical-align: middle;
 }
 
-
 .board{
-  padding-bottom: 45%;
-  height:0;
-  width: 45%;
-  background-color: teal;
+  margin-top: 40px;
+  margin-left: 40px;
+  height:90vh;
+  width: 650px;
+  background-color: rgb(220, 228, 228);
 }
+
+@media only screen and (orientation:portrait){
+  .board{
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-left: 10px;
+    padding-bottom: 90%;
+    height:0;
+    width:90%;
+    background-color: teal;
+  }
+}
+
+
+
 
 .piece_X{    
   color: #ea1717;
@@ -80,4 +97,23 @@ body {
   text-align: center;
   font-size: 150px;
   font-family: fantasy;
+}
+
+
+@media only screen and (max-width:500px){
+  .piece_X{    
+    font-size: 130px;
+  }
+  .piece_0{
+    font-size: 130px;
+  }
+}
+
+@media only screen and (max-width:430px){
+  .piece_X{    
+    font-size: 90px;
+  }
+  .piece_0{
+    font-size: 90px;
+  }
 }
